@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: registry.home-k8s.lab/k8s/nouur/app # image Docker du frontend
+        image: registry.home-k8s.lab/k8s/nouurrr/app # image Docker du frontend
         ports:
         - containerPort: 80
